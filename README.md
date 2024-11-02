@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# 美息查询系统 / US Stock Dividend Query System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[English](#english) | [中文](#chinese)
 
-## Available Scripts
+## English
 
-In the project directory, you can run:
+### Description
+A web-based system that allows users to query historical dividend information for US stocks by entering company ticker symbols.
 
-### `npm start`
+### Features
+- Quick dividend history lookup by company ticker symbol
+- Historical dividend trend visualization
+- User-friendly interface
+- No download required, accessible through web browser
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Usage
+Simply visit our website and enter the company ticker symbol to view its dividend history.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Technologies Used
+- React
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Chinese
 
-### `npm run build`
+### 项目描述
+一个基于网页的查询系统，用户只需输入美股公司代码，即可查询该公司的历年股息信息。
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 功能特点
+- 通过公司股票代码快速查询股息历史
+- 股息趋势可视化展示
+- 简单易用的界面
+- 无需下载，直接通过浏览器访问
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 使用方法
+访问网站后，输入公司股票代码即可查看其股息历史记录。
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 技术栈
+- React
