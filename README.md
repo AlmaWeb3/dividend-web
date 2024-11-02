@@ -18,6 +18,8 @@ Simply visit our website and enter the company ticker symbol to view its dividen
 
 ### Technologies Used
 - React
+- CSS
+- HTML
 
 ---
 
@@ -37,3 +39,5 @@ Simply visit our website and enter the company ticker symbol to view its dividen
 
 ### 技术栈
 - React
+- CSS
+- HTML
